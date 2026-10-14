@@ -1,0 +1,6 @@
+{
+  "name": "دستیار هوشمند وکیل",
+  "description": "دستیار هوشمند و تخصصی وکلا برای مدیریت پرونده‌ها، تحلیل لوایح و مستندات، تقویم و گانت چارت مهلت‌های قانونی، شبیه‌ساز دادگاه و استراتژی دفاع دادرسی.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
